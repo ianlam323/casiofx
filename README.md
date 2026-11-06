@@ -3,7 +3,7 @@
 A working recreation of the **CASIO fx-50FH II** in the browser: the programmable
 scientific calculator that the HKEAA approves for the HKDSE.
 
-**[Open the calculator →](https://throwingogo-hub.github.io/fx-50fh-ii/)**
+**[Open the calculator →](https://casiofx.igchkshop.dpdns.org/)**
 
 Program Studio includes a searchable, memory-aware **HKDSE Program Library**:
 the seven programs from the printed S5 list plus five complex-number solvers
